@@ -7,9 +7,6 @@
 
 1. Склонировать репозиторий с Github:
 
-````
-git clone git@github.com:Witaly3/notification_service.git
-````
 2. Перейти в директорию проекта
 
 3. Создать виртуальное окружение:
@@ -59,9 +56,6 @@ python manage.py test
 
 
 1. Склонировать репозиторий с Github
-```
-git clone git@github.com:Witaly3/notification_service.git
-```
 2. Перейти в директорию проекта
 3. В файле .evn заполнить необходимые данные: ```TOKEN = '<your token>'```
 4. Запустить контейнеры 
@@ -91,8 +85,6 @@ sudo docker-compose stop
 
 ***
 
-**Техзадание:** 
-[https://www.craft.do/s/n6OVYFVUpq0o6L](https://www.craft.do/s/n6OVYFVUpq0o6L)
 
 ## Задача
 
